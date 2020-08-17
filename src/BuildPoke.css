@@ -1,0 +1,8 @@
+.form-container {
+  border: solid rgb(19, 131, 206);
+  background: rgba(171, 205, 239, 0.3);
+}
+
+.form-title-text {
+  text-align: center;
+}

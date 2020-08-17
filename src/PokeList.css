@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 80%;
+  padding: 10px;
+  margin-right: 10px;
+  background: rgba(171, 205, 239, 0.3);
+  overflow: scroll;
+}
